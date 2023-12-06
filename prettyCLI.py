@@ -84,8 +84,16 @@ mgbg = pcli["bg"]["magenta"]
 blbg = pcli["fg"]["black"]
 spc =  "       "
 
-# Demonstration of all dictionary items
+
 if __name__ == "__main__":
+    print(pcli["bg"]["cyan"] +  "                              " + pcli["reset"])
+    print(pcli["bg"]["pink"] +  "         Trans                " + pcli["reset"])
+    print(pcli["bg"]["white"]+pcli["fg"]["black"] + "             Rights           " + pcli["reset"])
+    print(pcli["bg"]["pink"] +  "            Now!              " + pcli["reset"])
+    print(pcli["bg"]["cyan"] +  "                              " + pcli["reset"])
+
+
+
     print("\n\nText Foreground Colour: Usually Supported")
     for colour in pcli["fg"]:
         print(pcli["fg"][colour] + "Sample Text Here, FG Colour:  " + colour + spc + pcli["reset"])
