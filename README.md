@@ -1,6 +1,9 @@
 # prettyCLI
 Python Dictionary for Command Line Interface text formatting
 
+![image](https://github.com/ImogenWren/prettyCLI/assets/97303986/a3fc4569-b6fb-4b2d-b6c0-550d31d83d6e)
+
+
 ## Demo Output
 
 ![image](https://github.com/ImogenWren/prettyCLI/assets/97303986/527d231a-7d36-4f11-896c-52c3ec49231e)
