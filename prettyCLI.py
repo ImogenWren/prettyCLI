@@ -1,7 +1,7 @@
 '''
 Pretty CLI aims to provide an easy lookup dictionary for formatting command line text
 https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences
-Dictionary by Imogen Heard
+Dictionary by Imogen Heard https://github.com/ImogenWren/prettyCLI
 '''
 
 
